@@ -1,0 +1,8 @@
+<div class="layout layout_skeleton">
+	<ul id="container">
+		<li class="item homepage-custom translucent" tabbar-items ng-repeat="feature in features.overview.options" option="feature" go-to-url="goTo(feature);">
+			<img ng-src="{{ feature.icon_url }}" />
+			<h2>{{ feature.name }}</h2>
+		</li>
+	</ul>
+</div> 

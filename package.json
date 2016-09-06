@@ -1,0 +1,12 @@
+{
+  "name": "LayoutSkeleton",
+  "description": "Custom layout skeleton",
+  "type": "layout",
+  "version": "1.0.0",
+  "dependencies": {
+    "system": {
+      "type": "SAE",
+      "version": "4.5.0"
+    }
+  }
+}

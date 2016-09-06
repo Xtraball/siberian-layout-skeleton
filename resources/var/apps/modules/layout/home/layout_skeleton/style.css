@@ -1,0 +1,29 @@
+.layout.layout_skeleton {
+    position: absolute;
+    bottom: 5vh;
+    width: 100%;
+}
+
+.layout.layout_skeleton li.item {
+    height: 28px;
+    width: 150px;
+    border-radius: 0 14px 14px 0;
+    padding: 0;
+    -o-transform: rotate(-7deg);
+    -ms-transform: rotate(-7deg);
+    -webkit-transform: rotate(-7deg);
+    transform: rotate(-7deg);
+    margin-left: -4vw;
+    margin-top: 1px;
+    border-width: 0px;
+}
+
+.layout.layout_skeleton li.item img {
+    float: left;
+    height: 80%;
+    margin: 2% 0 0 10%;
+}
+
+.layout.layout_skeleton li.item h2 {
+    float: left;
+}
