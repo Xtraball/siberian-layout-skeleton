@@ -1,3 +1,3 @@
 # Siberian Layout Skeleton
 
-[layout](docs/example.png)
+![layout](docs/example.png)
