@@ -23,7 +23,7 @@ App.service('layout_skeleton', function ($rootScope, HomepageLayout) {
      * @returns {string}
      */
     service.getModalTemplate = function() {
-        return "modules/layout/home/modal/view.html";
+        return "templates/home/l10/modal.html";
     };
 
     /**
