@@ -1,3 +1,5 @@
 # Siberian Layout Skeleton
 
-[layout](docs/example.png)
+zip resources, bootstrap.php & package.json and you are ready to go !
+
+![layout](docs/example.png)
