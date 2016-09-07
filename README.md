@@ -1,5 +1,5 @@
 # Siberian Layout Skeleton
 
-zip resources, bootstrap.php & package.json and you are ready to go !
+run `./tools/pack.sh` to create your layout package `layout.zip`.
 
 ![layout](docs/example.png)

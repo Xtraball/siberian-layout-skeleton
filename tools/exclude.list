@@ -1,0 +1,8 @@
+*.DS_Store*
+*.git*
+*.idea*
+*.localized*
+README.md
+*.zip
+docs*
+tools*
